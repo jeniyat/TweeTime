@@ -10,13 +10,13 @@ each line in the file contains 6 tab separated values :
 			2. tweet
 			3. creation date
 			4. event date
-			5. POS tags 
+			5. POS tags [Tagged using [twitter_nlp](https://github.com/aritter/twitter_nlp)]
 
 sample input file can be found in "Ouput_From_Recognizer_Pos" directory
 
 ## Details:
 
-This project contains the evaluation data set used for the following paper:
+This project contains the Normalizer described in the the following paper:
 
 [1] Jeniya Tabassum, Alan Ritter, Wei Xu. "TweeTIME : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter". EMNLP 2016.
 
