@@ -1,6 +1,8 @@
 ## Instruction to run:
 python main.py \<input file name\>
 
+example : python main.py Ouput_From_Recognizer_Pos/test
+
 This will store the ouput in "ouput.txt" file and also print in the standard output
 
 ## Format of input file:
