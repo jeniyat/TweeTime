@@ -22,4 +22,4 @@ This project contains the Normalizer described in the the following paper:
 
 The POS tags are generated with [twitter_nlp](https://github.com/aritter/twitter_nlp).
 
-This project is maintained by [Jeniya Tabassum](https://sites.google.com/site/jeniyatabassum/). Feel free to contact bintejafar.1@osu.edu for any relevant issue or for the codes. This repo will continue to be updated.
+This project is maintained by [Jeniya Tabassum](https://sites.google.com/site/jeniyatabassum/). Feel free to contact bintejafar.1@osu.edu for any relevant issue. This repo will continue to be updated.
