@@ -368,7 +368,7 @@ if __name__ == '__main__':
 
 	test_file = "Ouput_From_Recognizer_Pos/test"
 	test_file = sys.argv[1]
-	test_output_file = "ouput"
+	test_output_file = "ouput.txt"
 	test_file_has_tag=False
 
 	train_file='saved_model/train.save'
