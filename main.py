@@ -238,7 +238,7 @@ class Date_Resolver:
 
 
 	def Evaluate_and_Plot_Print(self,testFile,outFile,test_file_has_tag):
-		print "Eval & Plot"
+		#print "Eval & Plot"
 		#self.Evalutate()
 		Tp =0.0
 		Fp=0.0
@@ -363,7 +363,7 @@ class Date_Resolver:
 
 
 if __name__ == '__main__':
-	print "main"
+	#print "main"
 	#train_file = "data/train_2"
 
 	test_file = "Ouput_From_Recognizer_Pos/test"
