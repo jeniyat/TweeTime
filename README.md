@@ -1,6 +1,6 @@
 ## Instruction to run:
-python main.py <input file name>
-this will store the ouput in "ouput.txt" file and also print in the standard output
+python main.py \<input file name\>
+This will store the ouput in "ouput.txt" file and also print in the standard output
 
 ## Format of input file:
 each line in the file contains 6 tab separated values : 
